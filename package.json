@@ -11,8 +11,11 @@
     "typescript": "^5"
   },
   "scripts": {
-    "test": "vitest",
-    "test:run": "vitest run"
+    "test": "vitest run",
+    "test:run": "vitest run",
+    "lint": "echo 'Add your linter here (e.g., eslint .)' ",
+    "build": "echo 'Add your build command here'"
   }
+
 }
 
